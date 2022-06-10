@@ -1,5 +1,7 @@
-WEB local
+**WEB local**
+
 gradle clean test -Denv=local
 
-WEB remote
+**WEB remote**
+
 gradle clean test -Denv=remote
